@@ -1,0 +1,12 @@
+.stock-container{
+    background-color:rgb(199, 197, 197);
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    border-radius:5px;
+    padding:10px;
+    margin:10px;
+}
+.stock-section{
+    display: flex;
+   flex-direction: row;
+
+}
